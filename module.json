@@ -1,0 +1,39 @@
+{
+  "id": "datapad-sw5e",
+  "name": "datapad-sw5e",
+  "type": "module",
+  "title": "Datapad SW5e",
+  "description": "A readable datapad-inspired UI skin for Star Wars 5e games in Foundry VTT.",
+  "version": "1.1.0",
+  "authors": [
+    {
+      "name": "SevRuin"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "sw5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "styles": [
+    "styles/datapad-sw5e.css"
+  ],
+  "scripts": [
+    "scripts/settings.js"
+  ],
+  "esmodules": [],
+  "packs": [],
+  "languages": [],
+  "url": "https://github.com/SevRuin/SW5e-Datapad-UI-v0.1.0",
+  "manifest": "https://raw.githubusercontent.com/SevRuin/SW5e-Datapad-UI-v0.1.0/main/module.json",
+  "download": "https://github.com/SevRuin/SW5e-Datapad-UI-v0.1.0/releases/download/v1.1.0/datapad-sw5e.zip",
+  "license": "MIT"
+}
